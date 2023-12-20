@@ -1,0 +1,9 @@
+let firstname = "Surya";
+let age = '27';
+let isyoung = true;
+
+if (isyoung == true) {
+console.log(firstname  + " Is Young");
+} else {
+  console.log(firstname + "is not Young");
+}
