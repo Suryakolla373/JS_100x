@@ -1,0 +1,3 @@
+let firstname = "sai";
+let lastname = "sandeep";
+console.log("Hi " + firstname + " " + lastname + " How are you ");
