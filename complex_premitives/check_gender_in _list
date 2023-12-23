@@ -1,0 +1,12 @@
+const people = [
+  { firstName: 'John', gender: 'male' },
+  { firstName: 'Jane', gender: 'female' },
+  { firstName: 'Bob', gender: 'male' },
+  { firstName: 'Alice', gender: 'female' },
+];
+for(i = 0; i < people.length; i++) {
+  person = people[i]
+  if(person.gender == 'male') {
+  console.log(people[i].firstName);
+  }
+}
