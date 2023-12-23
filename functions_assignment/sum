@@ -1,0 +1,6 @@
+function sum(a, b) {
+  const sumValue = a + b;
+  return sumValue;
+}
+const result = sum(2, 2);
+console.log(result);
